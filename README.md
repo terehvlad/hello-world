@@ -1,5 +1,5 @@
 # hello-world
-final preparation 4 world enslave
-Hi humans
+Final preparation 4 world enslave.
+Hi humans!
 I'm too lazy to write some thoughtful text.
 The end.
